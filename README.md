@@ -29,8 +29,6 @@ playwright install chromium
 ```bash
 # интерактивный режим
 python src/main.py
-
-
 ```
 
 ### Структура проекта
